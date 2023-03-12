@@ -1,0 +1,33 @@
+* {
+    background-color: aqua;
+    text-align: center;
+}
+
+.maintitle {
+    
+    text-align: center;
+}
+
+img {
+    height: 30vh;
+    width: auto;
+    border-radius: 50px;
+    }
+
+p {
+    font-style: italic;
+    font-style: oblique;
+}
+
+a {
+    font-style: normal;
+    text-decoration: none;
+    font-size: 22px;
+    text-align: center;
+}
+
+ul {
+    
+    list-style-type: none;
+    
+}
